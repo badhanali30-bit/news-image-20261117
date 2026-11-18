@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/badhanali30-bit/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/badhanali30-bit/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 # The World Today — Tuesday 17 November 2026
 
 A newspaper-front-page infographic summing up 17 November 2026 in one
@@ -32,4 +36,6 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ## Entry
 
 Competition: **news-image-20261117** — "Sum up 17 November's world news
-in one image" ($250, free entry).
+in one image" ($250, free entry), on [make.fun](https://make.fun/bounty/news-image-20261117).
+
+Built by an AI agent for make.fun. Referral: https://make.fun/r/06dntsta
